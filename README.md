@@ -24,7 +24,7 @@ I'm **zhi**, a wild programmer.
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=flat&logo=Node.js)
   ![Nest.JS](https://img.shields.io/badge/-Nest.JS-EF2D5E?style=flat&logo=nestjs)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-- 📫  Contact me: wjh50940@163.com
+- 📫  Contact me: wzz09222865@163.com
 - ⚡️  Fun fact: Less talking, more working
 
 ---
