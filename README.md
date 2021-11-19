@@ -2,11 +2,11 @@
 
 -->
 
-### 👋 Hi Evan here
+### 👋 Hi
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=wujihua118&theme=dark&show_icons=true">](https://metrics.lecoq.io/wujihua118?template=classic)
 
-I'm **Evan**, a wild programmer.
+I'm **zhi**, a wild programmer.
 
 - :hammer_and_pick: I work using:
   ![React](https://img.shields.io/badge/-React-3b2e5a?style=flat&logo=react)
